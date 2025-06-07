@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -18,7 +17,7 @@
   <div class="header">
     <h1>Shweta Uchil</h1>
     <p>AI Transformation Leader | 22+ Years in Banking, Finance & Tech</p>
-    <p><a href="mailto:shwetauchil@gmail.com" style="color:#90caf9;">shwetauchil@gmail.com</a> | Mumbai, India (Remote OK)</p>
+    <p><a href="mailto:shwetauchil@gmail.com" style="color:#90caf9;">shwetauchil@gmail.com</a> | Mumbai, India, US, EU (Remote OK)</p>
     <p><a href="https://www.linkedin.com/in/shweta-uchil-b50b21229" style="color:#90caf9;">LinkedIn Profile</a></p>
   </div>
 
