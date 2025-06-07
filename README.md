@@ -40,7 +40,7 @@
 
     <div class="section">
       <h2>Resume</h2>
-      <p>📄 <a href="Shweta_Uchil_US_AIML_Resume_2025_Final_US_(Use_Word_to_Save_as_PDF).docx" download>Download Full Resume</a></p>
+      <p>📄 <a href="Shweta_Uchil_AIML_Resume_2025_Final_US.docx" download>Download Full Resume</a></p>
     </div>
 
     <div class="section contact">
